@@ -11,7 +11,7 @@ Isso é recorrente nos grupos de Linux, visto que nem sempre o moderador, por tr
 
 O facebook se transformou num reduto de especialistas em política, e alguns usuário querem transformar tudo numa possível discussão sobre basicamente <- ->, se isso acontecer, o membro será banido.
 
-Outro aspecto importante, talvez o mais importante, é a comunidade, muitos iniciantes entram em grupos de Linux e não sabem o que é comunidade, nesse contexto comunidade é um lugar onde pessoas possam trocar conhecimento, fazendo o meio prosperar, seja na construção de um software, suporte aos usuário, mantendo pacotes, ajudar na tradução, enfim, existem várias formas de contribuir e espalhar o conhecimento, além de fazer amigos. Não veja o grupo Debian Brasil como um lugar para pedir socorro, ou qualquer outra comunidade, você não está participando da comunidade dessa forma, na verdade, você está sugando, e sanguessugas não são bem vindos. 
+Outro aspecto importante, talvez o mais importante, é a comunidade, muitos iniciantes entram em grupos de Linux e não sabem o que é comunidade, nesse contexto, comunidade é um lugar onde pessoas possam trocar conhecimento, fazendo o meio prosperar, seja na construção de um software, suporte aos usuário, mantendo pacotes, ajudar na tradução, enfim, existem várias formas de contribuir e espalhar o conhecimento, além de fazer amigos. Não veja o grupo Debian Brasil como um lugar para pedir socorro, ou qualquer outra comunidade, você não está participando da comunidade dessa forma, na verdade, você está sugando, e sanguessugas não são bem vindos. 
 
 Para saber sobre a história do projeto, por favor acesse
 https://www.debian.org/doc/manuals/project-history/ch4.pt.html
