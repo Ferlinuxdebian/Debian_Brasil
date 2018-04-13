@@ -6,7 +6,7 @@ Também não vamos discutir em hipotipose alguma sobre sistemas proprietários.
 
 Facebook é um rede social gigantesca, portando, você vai encontrar um grupo do seu sistema, no qual pode solicitar ajuda, não tente bagunçar o grupo com temas que não tenham relação com o Debian, isso vai resultar num primeiro momento em alerta, se permanecer, o membro será banido. 
 
-Também não iremos aceitar que páginas e blogs no intuído alavancar seu projeto, usem o grupo para encher a timeline com publicações para fazer marketing. 
+Também não iremos aceitar que páginas e blogs no intuído de alavancar seu projeto, usem o grupo para encher a timeline com publicações para fazer marketing. 
 Isso é recorrente nos grupos de Linux, visto que nem sempre o moderador, por trabalhar, família e outros afazeres, não dispor do tempo necessário para cuidar do grupo, e como bom senso no facebook infelizmente não existe, isso se torna recorrente. Publicações serão bem vindas, se forem para debian, ou um assunto que possa ser útil a qualquer distro como tutorias de comandos, sobre softwares, como o Gimp e similares, peço somente o bom senso de fazer de 1 a 3 publicações no máximo.
 
 O facebook se transformou num reduto de especialistas em política, e alguns usuário querem transformar tudo numa possível discussão sobre basicamente <- ->, se isso acontecer, o membro será banido.
