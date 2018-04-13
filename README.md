@@ -6,12 +6,12 @@ Também não vamos discutir em hipotipose alguma sobre sistemas proprietários.
 
 Facebook é um rede social gigantesca, portando, você vai encontrar um grupo do seu sistema, no qual pode solicitar ajuda, não tente bagunçar o grupo com temas que não tenham relação com o Debian, isso vai resultar num primeiro momento em alerta, se permanecer, o membro será banido. 
 
-Também não iremos aceitar que páginas e blogs no intuído alavancar seu projeto, usem o grupo para encher a timeline com publicações para fazer marketing do seu projeto. 
+Também não iremos aceitar que páginas e blogs no intuído alavancar seu projeto, usem o grupo para encher a timeline com publicações para fazer marketing. 
 Isso é recorrente nos grupos de Linux, visto que nem sempre o moderador, por trabalhar, família e outros afazeres, não dispor do tempo necessário para cuidar do grupo, e como bom senso no facebook infelizmente não existe, isso se torna recorrente. Publicações serão bem vindas, se forem para debian, ou um assunto que possa ser útil a qualquer distro como tutorias de comandos, sobre softwares, como o Gimp e similares, peço somente o bom senso de fazer de 1 a 3 publicações no máximo.
 
-Política, o facebook se transformou num reduto de especialistas em política, e alguns usuário querem transformar tudo numa possível discussão de política, se isso acontecer, o membro será banido.
+O facebook se transformou num reduto de especialistas em política, e alguns usuário querem transformar tudo numa possível discussão sobre basicamente <- ->, se isso acontecer, o membro será banido.
 
-Outro aspecto importante, talvez o mais importante, é a comunidade, muitos iniciantes entram em grupos de Linux e não sabem o que é comunidade, comunidade nesse contexto, é um lugar onde pessoas possam trocar conhecimento, fazendo o meio prosperar, seja na construção de um software, suporte aos usuário, mantendo pacotes, ajudar na tradução, enfim, existem várias formas de contribuir e espalhar o conhecimento, além de fazer amigos. Não veja o grupo Debian Brasil como um lugar para pedir socorro, ou qualquer outra comunidade, você não está participando da comunidade dessa forma, na verdade, você está sugando, e sanguessugas não são bem vindos. 
+Outro aspecto importante, talvez o mais importante, é a comunidade, muitos iniciantes entram em grupos de Linux e não sabem o que é comunidade, nesse contexto comunidade, é um lugar onde pessoas possam trocar conhecimento, fazendo o meio prosperar, seja na construção de um software, suporte aos usuário, mantendo pacotes, ajudar na tradução, enfim, existem várias formas de contribuir e espalhar o conhecimento, além de fazer amigos. Não veja o grupo Debian Brasil como um lugar para pedir socorro, ou qualquer outra comunidade, você não está participando da comunidade dessa forma, na verdade, você está sugando, e sanguessugas não são bem vindos. 
 
 Para saber sobre a história do projeto, por favor acesse
 https://www.debian.org/doc/manuals/project-history/ch4.pt.html
