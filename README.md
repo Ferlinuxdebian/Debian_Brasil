@@ -2,7 +2,7 @@
 
 Nosso grupo é destinado a usuários de Debian, sejam experts ou iniciantes, não temos nada contra Ubuntu ou outra variante do Debian e nem a outras distribuições, mas nesse grupo, para manter a organização, só discutiremos sobre Debian, afinal o nome do grupo já diz o tema.
 
-Também não vamos discutir em hipotipose alguma sobre sistemas proprietários.
+Também não vamos discutir em hipótese alguma sobre sistemas proprietários.
 
 Facebook é um rede social gigantesca, portando, você vai encontrar um grupo do seu sistema, no qual pode solicitar ajuda, não tente bagunçar o grupo com temas que não tenham relação com o Debian, isso vai resultar num primeiro momento em alerta, se permanecer, o membro será banido. 
 
